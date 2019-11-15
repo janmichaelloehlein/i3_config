@@ -13,7 +13,7 @@ set $mod Mod4
 set $alt Mod1
 
 # set background wallpaper
-exec --no-startup-id feh --bg-fill /home/jan/Pictures/black_wallpaper.jpg
+exec --no-startup-id feh --bg-fill /home/jan/Pictures/wallpaper.jpg
 
 # screen lock
 bindsym $mod+$alt+l exec i3lock --color=000000
